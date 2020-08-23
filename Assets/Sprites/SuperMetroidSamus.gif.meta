@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: 95a89ce35c1fed84581b92f09cbd9994
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SuperMetroidSamus_0
+    21300002: SuperMetroidSamus_1
+    21300004: SuperMetroidSamus_2
+    21300006: SuperMetroidSamus_3
+    21300008: SuperMetroidSamus_4
+    21300010: SuperMetroidSamus_5
+    21300012: SuperMetroidSamus_6
+    21300014: SuperMetroidSamus_7
+    21300016: SuperMetroidSamus_8
+    21300018: SuperMetroidSamus_9
+    21300020: SuperMetroidSamus_10
+    21300022: SuperMetroidSamus_11
+    21300024: SuperMetroidSamus_12
+    21300026: SuperMetroidSamus_13
+    21300028: SuperMetroidSamus_14
+    21300030: SuperMetroidSamus_15
+    21300032: SuperMetroidSamus_16
+    21300034: SuperMetroidSamus_17
+    21300036: SuperMetroidSamus_18
+    21300038: SuperMetroidSamus_19
+    21300040: SuperMetroidSamus_20
+    21300042: SuperMetroidSamus_21
+    21300044: SuperMetroidSamus_22
+    21300046: SuperMetroidSamus_23
+    21300048: SuperMetroidSamus_24
+    21300050: SuperMetroidSamus_25
+    21300052: SuperMetroidSamus_26
+    21300054: SuperMetroidSamus_27
+    21300056: SuperMetroidSamus_28
+    21300058: SuperMetroidSamus_29
+    21300060: SuperMetroidSamus_30
+    21300062: SuperMetroidSamus_31
+    21300064: SuperMetroidSamus_32
+    21300066: SuperMetroidSamus_33
+    21300068: SuperMetroidSamus_34
+    21300070: SuperMetroidSamus_35
+    21300072: SuperMetroidSamus_36
+    21300074: SuperMetroidSamus_37
+    21300076: SuperMetroidSamus_38
+    21300078: SuperMetroidSamus_39
+    21300080: SuperMetroidSamus_40
+    21300082: SuperMetroidSamus_41
+    21300084: SuperMetroidSamus_42
+    21300086: SuperMetroidSamus_43
+    21300088: SuperMetroidSamus_44
+    21300090: SuperMetroidSamus_45
+    21300092: SuperMetroidSamus_46
+    21300094: SuperMetroidSamus_47
+    21300096: SuperMetroidSamus_48
+    21300098: SuperMetroidSamus_49
+    21300100: SuperMetroidSamus_50
+    21300102: SuperMetroidSamus_51
+    21300104: SuperMetroidSamus_52
+    21300106: SuperMetroidSamus_53
+    21300108: SuperMetroidSamus_54
+    21300110: SuperMetroidSamus_55
+    21300112: SuperMetroidSamus_56
+    21300114: SuperMetroidSamus_57
+    21300116: SuperMetroidSamus_58
+    21300118: SuperMetroidSamus_59
+    21300120: SuperMetroidSamus_60
+    21300122: SuperMetroidSamus_61
+    21300124: SuperMetroidSamus_62
+    21300126: SuperMetroidSamus_63
+    21300128: SuperMetroidSamus_64
+    21300130: SuperMetroidSamus_65
+    21300132: SuperMetroidSamus_66
+    21300134: SuperMetroidSamus_67
+    21300136: SuperMetroidSamus_68
+    21300138: SuperMetroidSamus_69
+    21300140: SuperMetroidSamus_70
+    21300142: SuperMetroidSamus_71
+    21300144: SuperMetroidSamus_72
+    21300146: SuperMetroidSamus_73
+    21300148: SuperMetroidSamus_74
+    21300150: SuperMetroidSamus_75
+    21300152: SuperMetroidSamus_76
+    21300154: SuperMetroidSamus_77
+    21300156: SuperMetroidSamus_78
+    21300158: SuperMetroidSamus_79
+    21300160: SuperMetroidSamus_80
+    21300162: SuperMetroidSamus_81
+    21300164: SuperMetroidSamus_82
+    21300166: SuperMetroidSamus_83
+    21300168: SuperMetroidSamus_84
+    21300170: SuperMetroidSamus_85
+    21300172: SuperMetroidSamus_86
+    21300174: SuperMetroidSamus_87
+    21300176: SuperMetroidSamus_88
+    21300178: SuperMetroidSamus_89
+    21300180: SuperMetroidSamus_90
+    21300182: SuperMetroidSamus_91
+    21300184: SuperMetroidSamus_92
+    21300186: SuperMetroidSamus_93
+    21300188: SuperMetroidSamus_94
+    21300190: SuperMetroidSamus_95
+    21300192: SuperMetroidSamus_96
+    21300194: SuperMetroidSamus_97
+    21300196: SuperMetroidSamus_98
+    21300198: SuperMetroidSamus_99
+    21300200: SuperMetroidSamus_100
+    21300202: SuperMetroidSamus_101
+    21300204: SuperMetroidSamus_102
+    21300206: SuperMetroidSamus_103
+    21300208: SuperMetroidSamus_104
+    21300210: SuperMetroidSamus_105
+    21300212: SuperMetroidSamus_106
+    21300214: SuperMetroidSamus_107
+    21300216: SuperMetroidSamus_108
+    21300218: SuperMetroidSamus_109
+    21300220: SuperMetroidSamus_110
+    21300222: SuperMetroidSamus_111
+    21300224: SuperMetroidSamus_112
+    21300226: SuperMetroidSamus_113
+    21300228: SuperMetroidSamus_114
+    21300230: SuperMetroidSamus_115
+    21300232: SuperMetroidSamus_116
+    21300234: SuperMetroidSamus_117
+    21300236: SuperMetroidSamus_118
+    21300238: SuperMetroidSamus_119
+    21300240: SuperMetroidSamus_120
+    21300242: SuperMetroidSamus_121
+    21300244: SuperMetroidSamus_122
+    21300246: SuperMetroidSamus_123
+    21300248: SuperMetroidSamus_124
+    21300250: SuperMetroidSamus_125
+    21300252: SuperMetroidSamus_126
+    21300254: SuperMetroidSamus_127
+    21300256: SuperMetroidSamus_128
+    21300258: SuperMetroidSamus_129
+    21300260: SuperMetroidSamus_130
+    21300262: SuperMetroidSamus_131
+    21300264: SuperMetroidSamus_132
+    21300266: SuperMetroidSamus_133
+    21300268: SuperMetroidSamus_134
+    21300270: SuperMetroidSamus_135
+    21300272: SuperMetroidSamus_136
+    21300274: SuperMetroidSamus_137
+    21300276: SuperMetroidSamus_138
+    21300278: SuperMetroidSamus_139
+    21300280: SuperMetroidSamus_140
+    21300282: SuperMetroidSamus_141
+    21300284: SuperMetroidSamus_142
+    21300286: SuperMetroidSamus_143
+    21300288: SuperMetroidSamus_144
+    21300290: SuperMetroidSamus_145
+    21300292: SuperMetroidSamus_146
+    21300294: SuperMetroidSamus_147
+    21300296: SuperMetroidSamus_148
+    21300298: SuperMetroidSamus_149
+    21300300: SuperMetroidSamus_150
+    21300302: SuperMetroidSamus_151
+    21300304: SuperMetroidSamus_152
+    21300306: SuperMetroidSamus_153
+    21300308: SuperMetroidSamus_154
+    21300310: SuperMetroidSamus_155
+    21300312: SuperMetroidSamus_156
+    21300314: SuperMetroidSamus_157
+    21300316: SuperMetroidSamus_158
+    21300318: SuperMetroidSamus_159
+    21300320: SuperMetroidSamus_160
+    21300322: SuperMetroidSamus_161
+    21300324: SuperMetroidSamus_162
+    21300326: SuperMetroidSamus_163
+    21300328: SuperMetroidSamus_164
+    21300330: SuperMetroidSamus_165
+    21300332: SuperMetroidSamus_166
+    21300334: SuperMetroidSamus_167
+    21300336: SuperMetroidSamus_168
+    21300338: SuperMetroidSamus_169
+    21300340: SuperMetroidSamus_170
+    21300342: SuperMetroidSamus_171
+    21300344: SuperMetroidSamus_172
+    21300346: SuperMetroidSamus_173
+    21300348: SuperMetroidSamus_174
+    21300350: SuperMetroidSamus_175
+    21300352: SuperMetroidSamus_176
+    21300354: SuperMetroidSamus_177
+    21300356: SuperMetroidSamus_178
+    21300358: SuperMetroidSamus_179
+    21300360: SuperMetroidSamus_180
+    21300362: SuperMetroidSamus_181
+    21300364: SuperMetroidSamus_182
+    21300366: SuperMetroidSamus_183
+    21300368: SuperMetroidSamus_184
+    21300370: SuperMetroidSamus_185
+    21300372: SuperMetroidSamus_186
+    21300374: SuperMetroidSamus_187
+    21300376: SuperMetroidSamus_188
+    21300378: SuperMetroidSamus_189
+    21300380: SuperMetroidSamus_190
+    21300382: SuperMetroidSamus_191
+    21300384: SuperMetroidSamus_192
+    21300386: SuperMetroidSamus_193
+    21300388: SuperMetroidSamus_194
+    21300390: SuperMetroidSamus_195
+    21300392: SuperMetroidSamus_196
+    21300394: SuperMetroidSamus_197
+    21300396: SuperMetroidSamus_198
+    21300398: SuperMetroidSamus_199
+    21300400: SuperMetroidSamus_200
+    21300402: SuperMetroidSamus_201
+    21300404: SuperMetroidSamus_202
+    21300406: SuperMetroidSamus_203
+    21300408: SuperMetroidSamus_204
+    21300410: SuperMetroidSamus_205
+    21300412: SuperMetroidSamus_206
+    21300414: SuperMetroidSamus_207
+    21300416: SuperMetroidSamus_208
+    21300418: SuperMetroidSamus_209
+    21300420: SuperMetroidSamus_210
+    21300422: SuperMetroidSamus_211
+    21300424: SuperMetroidSamus_212
+    21300426: SuperMetroidSamus_213
+    21300428: SuperMetroidSamus_214
+    21300430: SuperMetroidSamus_215
+    21300432: SuperMetroidSamus_216
+    21300434: SuperMetroidSamus_217
+    21300436: SuperMetroidSamus_218
+    21300438: SuperMetroidSamus_219
+    21300440: SuperMetroidSamus_220
+    21300442: SuperMetroidSamus_221
+    21300444: SuperMetroidSamus_222
+    21300446: SuperMetroidSamus_223
+    21300448: SuperMetroidSamus_224
+    21300450: SuperMetroidSamus_225
+    21300452: SuperMetroidSamus_226
+    21300454: SuperMetroidSamus_227
+    21300456: SuperMetroidSamus_228
+    21300458: SuperMetroidSamus_229
+    21300460: SuperMetroidSamus_230
+    21300462: SuperMetroidSamus_231
+    21300464: SuperMetroidSamus_232
+    21300466: SuperMetroidSamus_233
+    21300468: SuperMetroidSamus_234
+    21300470: SuperMetroidSamus_235
+    21300472: SuperMetroidSamus_236
+    21300474: SuperMetroidSamus_237
+    21300476: SuperMetroidSamus_238
+    21300478: SuperMetroidSamus_239
+    21300480: SuperMetroidSamus_240
+    21300482: SuperMetroidSamus_241
+    21300484: SuperMetroidSamus_242
+    21300486: SuperMetroidSamus_243
+    21300488: SuperMetroidSamus_244
+    21300490: SuperMetroidSamus_245
+    21300492: SuperMetroidSamus_246
+    21300494: SuperMetroidSamus_247
+    21300496: SuperMetroidSamus_248
+    21300498: SuperMetroidSamus_249
+    21300500: SuperMetroidSamus_250
+    21300502: SuperMetroidSamus_251
+    21300504: SuperMetroidSamus_252
+    21300506: SuperMetroidSamus_253
+    21300508: SuperMetroidSamus_254
+    21300510: SuperMetroidSamus_255
+    21300512: SuperMetroidSamus_256
+    21300514: SuperMetroidSamus_257
+    21300516: SuperMetroidSamus_258
+    21300518: SuperMetroidSamus_259
+    21300520: SuperMetroidSamus_260
+    21300522: SuperMetroidSamus_261
+    21300524: SuperMetroidSamus_262
+    21300526: SuperMetroidSamus_263
+    21300528: SuperMetroidSamus_264
+    21300530: SuperMetroidSamus_265
+    21300532: SuperMetroidSamus_266
+    21300534: SuperMetroidSamus_267
+    21300536: SuperMetroidSamus_268
+    21300538: SuperMetroidSamus_269
+    21300540: SuperMetroidSamus_270
+    21300542: SuperMetroidSamus_271
+    21300544: SuperMetroidSamus_272
+    21300546: SuperMetroidSamus_273
+    21300548: SuperMetroidSamus_274
+    21300550: SuperMetroidSamus_275
+    21300552: SuperMetroidSamus_276
+    21300554: SuperMetroidSamus_277
+    21300556: SuperMetroidSamus_278
+    21300558: SuperMetroidSamus_279
+    21300560: SuperMetroidSamus_280
+    21300562: SuperMetroidSamus_281
+    21300564: SuperMetroidSamus_282
+    21300566: SuperMetroidSamus_283
+    21300568: SuperMetroidSamus_284
+    21300570: SuperMetroidSamus_285
+    21300572: SuperMetroidSamus_286
+    21300574: SuperMetroidSamus_287
+    21300576: SuperMetroidSamus_288
+    21300578: SuperMetroidSamus_289
+    21300580: SuperMetroidSamus_290
+    21300582: SuperMetroidSamus_291
+    21300584: SuperMetroidSamus_292
+    21300586: SuperMetroidSamus_293
+    21300588: SuperMetroidSamus_294
+    21300590: SuperMetroidSamus_295
+    21300592: SuperMetroidSamus_296
+    21300594: SuperMetroidSamus_297
+    21300596: SuperMetroidSamus_298
+    21300598: SuperMetroidSamus_260
+    21300600: SuperMetroidSamus_261
+    21300602: SuperMetroidSamus_262
+    21300604: SuperMetroidSamus_263
+    21300606: SuperMetroidSamus_285
+    21300608: SuperMetroidSamus_259
+    21300610: SuperMetroidSamus_260
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SuperMetroidSamus_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 545
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 545
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 545
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 545
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 545
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 545
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 567
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 567
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 566
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 563
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 562
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 562
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 562
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 560
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 564
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 564
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 564
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 564
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 564
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 564
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 564
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 564
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 575
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_35
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 488
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_36
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 488
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 488
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 488
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 488
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 488
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 486
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 486
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_55
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 488
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 488
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_57
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 488
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_58
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 489
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_59
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 491
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_60
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 491
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_61
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 491
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_65
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 486
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_66
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 486
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_67
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 486
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 486
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_69
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 486
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_73
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 485
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 485
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_90
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 433
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_91
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 434
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 424
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 424
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_96
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 424
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 424
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_98
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_99
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 424
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_100
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 424
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_101
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 424
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 424
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_103
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 434
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_104
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 434
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_105
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 434
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_106
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 434
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 434
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_108
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 434
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_109
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 434
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_110
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 434
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_111
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 432
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_112
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_113
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_114
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 431
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_115
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 431
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_116
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 431
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_117
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 430
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_118
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 431
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_119
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 433
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 368
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_121
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 368
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_122
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 368
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 368
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_124
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 368
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_126
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 368
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_127
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 367
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_128
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 367
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_129
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 374
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_130
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 384
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_131
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_132
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 384
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_133
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 384
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_134
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 384
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_135
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_136
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 384
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_137
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 384
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_138
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 384
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_139
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 384
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_140
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 384
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_141
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 384
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_142
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_143
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_144
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_145
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_146
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 384
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_147
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 324
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_148
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 324
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_149
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 324
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_150
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 324
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_151
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 324
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_152
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 324
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_153
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 323
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_154
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_155
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 324
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_156
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 320
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_157
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 320
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 320
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_159
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 320
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_160
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 320
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_161
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 320
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_162
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 320
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_163
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 320
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_164
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 320
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_165
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 320
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_166
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 320
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_167
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 320
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_168
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 320
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_169
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 320
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_170
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 320
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_171
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 320
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_172
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 320
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_174
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 264
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_175
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 264
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_176
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 264
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_177
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 264
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_178
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_179
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 264
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_180
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 264
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_181
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 264
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_182
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 264
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_183
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_185
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 252
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_186
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 252
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_187
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 252
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_188
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 252
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_189
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 252
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_190
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 252
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_191
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 252
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_192
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 252
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_193
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 252
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_194
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 252
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_195
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 252
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 212
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_197
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 212
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_198
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 212
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 212
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_200
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 212
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_201
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 212
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_202
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 212
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_203
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 212
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_204
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 212
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_205
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 212
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_206
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 212
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_207
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 212
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_208
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 208
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_209
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 208
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_210
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 208
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_211
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 192
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_212
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 192
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_213
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_214
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 192
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_215
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 192
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_216
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_217
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_218
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_219
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 192
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_220
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 192
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_221
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 192
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_222
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 192
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_223
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 148
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_224
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 148
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_225
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 148
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_226
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_227
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 148
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_228
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 148
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_230
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_231
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 148
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_232
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 148
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_233
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 148
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_234
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 148
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_235
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 148
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_236
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 148
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_237
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 148
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_238
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 148
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_239
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 136
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_240
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 136
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_241
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 136
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_242
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 136
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_243
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 136
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_244
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 136
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_245
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 136
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_246
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_247
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_248
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_249
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_250
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_251
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 80
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_252
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 80
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_253
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 80
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_254
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 80
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_255
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 80
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_256
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 80
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_257
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 80
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_258
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 84
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_259
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 83
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_260
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 84
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_261
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 80
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_262
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 80
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_263
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 80
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_264
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 80
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_265
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 80
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_266
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 80
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_267
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 80
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_268
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 80
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_269
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 80
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_270
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 80
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_271
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_272
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_273
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 24
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_274
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 24
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_275
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 24
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_276
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_277
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 24
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_278
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 24
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_279
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 24
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_280
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 24
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_281
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 24
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_282
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 24
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_283
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 24
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_284
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_285
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_286
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_287
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_288
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_289
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_290
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_291
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_292
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_293
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 24
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_294
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 24
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_285
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 490
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_260
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 485
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_259
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 488
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_260
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 132
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_261
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 136
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSamus_262
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 80
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

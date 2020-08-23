@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 62f58e8d546ef764689fb784ed6eddf3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES---Super-Metroid---Metroid_0
+    21300002: SNES---Super-Metroid---Metroid_1
+    21300004: SNES---Super-Metroid---Metroid_2
+    21300006: SNES---Super-Metroid---Metroid_3
+    21300008: SNES---Super-Metroid---Metroid_4
+    21300010: SNES---Super-Metroid---Metroid_5
+    21300012: SNES---Super-Metroid---Metroid_6
+    21300014: SNES---Super-Metroid---Metroid_7
+    21300016: SNES---Super-Metroid---Metroid_8
+    21300018: SNES---Super-Metroid---Metroid_9
+    21300020: SNES---Super-Metroid---Metroid_10
+    21300022: SNES---Super-Metroid---Metroid_11
+    21300024: SNES---Super-Metroid---Metroid_12
+    21300026: SNES---Super-Metroid---Metroid_13
+    21300028: SNES---Super-Metroid---Metroid_14
+    21300030: SNES---Super-Metroid---Metroid_15
+    21300032: SNES---Super-Metroid---Metroid_16
+    21300034: SNES---Super-Metroid---Metroid_17
+    21300036: SNES---Super-Metroid---Metroid_18
+    21300038: SNES---Super-Metroid---Metroid_19
+    21300040: SNES---Super-Metroid---Metroid_20
+    21300042: SNES---Super-Metroid---Metroid_21
+    21300044: SNES---Super-Metroid---Metroid_22
+    21300046: SNES---Super-Metroid---Metroid_23
+    21300048: SNES---Super-Metroid---Metroid_24
+    21300050: SNES---Super-Metroid---Metroid_25
+    21300052: SNES---Super-Metroid---Metroid_26
+    21300054: SNES---Super-Metroid---Metroid_27
+    21300056: SNES---Super-Metroid---Metroid_28
+    21300058: SNES---Super-Metroid---Metroid_29
+    21300060: SNES---Super-Metroid---Metroid_30
+    21300062: SNES---Super-Metroid---Metroid_31
+    21300064: SNES---Super-Metroid---Metroid_32
+    21300066: SNES---Super-Metroid---Metroid_33
+    21300068: SNES---Super-Metroid---Metroid_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SNES---Super-Metroid---Metroid_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 399
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 402
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 398
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 395
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 395
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 267
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 271
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 270
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 271
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 270
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 271
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 270
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 269
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 268
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 267
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 268
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_26
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 267
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 138
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 133
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 133
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 135
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_32
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 132
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 134
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES---Super-Metroid---Metroid_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 132
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
